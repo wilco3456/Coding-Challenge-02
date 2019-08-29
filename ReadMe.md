@@ -13,10 +13,10 @@ Andy         30     4,100.00         25     5,199.25         32       250.32
 Belinda      50    10,125.33         15       100.00         27     1.250.67
 </pre>
 
-## Platform Recommendation:
+## Platform Recommendation
 * This program has been run on Windows 10.0.15063 build 15063 and Mac OS X, developed using Python version 3.7, Other systems have not been tested, and it is advised to have caution with untested OS.
 
-## To Start:
+## To Start
 * Open a command line window and navigate to the folder holding the program's *.py* file.
 * Then type: python sales_reader.py, which should run the program.
 
