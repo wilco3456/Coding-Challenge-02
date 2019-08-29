@@ -1,0 +1,4772 @@
+[
+  {
+    "date": "2018-01-13",
+    "amount": 48582,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-09",
+    "amount": 93204,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-23",
+    "amount": 55836,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 17456,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 34158,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-11",
+    "amount": 92403,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 42305,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 98984,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-14",
+    "amount": 42414,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-04",
+    "amount": 86461,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-12",
+    "amount": 46422,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-18",
+    "amount": 21976,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-17",
+    "amount": 80948,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-18",
+    "amount": 89152,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-03",
+    "amount": 38214,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-04",
+    "amount": 94598,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-06",
+    "amount": 28079,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-16",
+    "amount": 42502,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 80131,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-18",
+    "amount": 20344,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-19",
+    "amount": 30957,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-09",
+    "amount": 39143,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-24",
+    "amount": 51958,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 53390,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-14",
+    "amount": 93624,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 47827,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-14",
+    "amount": 94145,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 53823,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 73288,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-18",
+    "amount": 46527,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-14",
+    "amount": 74768,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-11",
+    "amount": 27219,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 7004,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-25",
+    "amount": 55479,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 47864,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-23",
+    "amount": 21706,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-12",
+    "amount": 12473,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-20",
+    "amount": 69348,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-10",
+    "amount": 6552,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 62033,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 87984,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 54501,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-20",
+    "amount": 43524,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-02",
+    "amount": 30591,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-03",
+    "amount": 1510,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-14",
+    "amount": 59957,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-16",
+    "amount": 29584,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-22",
+    "amount": 24358,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-21",
+    "amount": 4433,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-02",
+    "amount": 70645,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 1338,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-18",
+    "amount": 86204,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-09",
+    "amount": 12505,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-23",
+    "amount": 26545,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-14",
+    "amount": 16169,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-19",
+    "amount": 18635,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-15",
+    "amount": 78717,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 54222,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-17",
+    "amount": 85442,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-24",
+    "amount": 50158,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-07",
+    "amount": 93470,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-24",
+    "amount": 19987,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-03",
+    "amount": 81492,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-14",
+    "amount": 88883,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-03",
+    "amount": 91542,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-19",
+    "amount": 8106,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-01",
+    "amount": 81286,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-08",
+    "amount": 81500,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-15",
+    "amount": 49783,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 17496,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 55968,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-11",
+    "amount": 98170,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-02",
+    "amount": 51288,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-21",
+    "amount": 42553,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-09",
+    "amount": 56246,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-11",
+    "amount": 72807,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-19",
+    "amount": 10505,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-21",
+    "amount": 98961,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-20",
+    "amount": 12360,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-11",
+    "amount": 86472,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-17",
+    "amount": 46701,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-21",
+    "amount": 87845,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 31136,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 72023,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 39064,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-10",
+    "amount": 75336,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-10",
+    "amount": 95982,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-07",
+    "amount": 61311,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-22",
+    "amount": 76184,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 43473,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 73826,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-23",
+    "amount": 54781,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-02",
+    "amount": 42551,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 79767,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 29893,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-01",
+    "amount": 97471,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-02",
+    "amount": 93973,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-21",
+    "amount": 22430,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-18",
+    "amount": 98069,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-07",
+    "amount": 10424,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-18",
+    "amount": 39304,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-07",
+    "amount": 84422,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-23",
+    "amount": 5615,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-21",
+    "amount": 18740,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-01",
+    "amount": 78284,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 45956,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-12",
+    "amount": 87409,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-10",
+    "amount": 73941,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-10",
+    "amount": 1299,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 75438,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-16",
+    "amount": 96167,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-05",
+    "amount": 37828,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-11",
+    "amount": 43321,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 43219,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-01",
+    "amount": 36069,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-15",
+    "amount": 43677,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-21",
+    "amount": 31584,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-12",
+    "amount": 61724,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 10508,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-23",
+    "amount": 71221,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-14",
+    "amount": 30908,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 24449,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 38849,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-11",
+    "amount": 41781,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 72273,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-14",
+    "amount": 36328,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 20847,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-14",
+    "amount": 84885,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-21",
+    "amount": 61065,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-16",
+    "amount": 24559,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-15",
+    "amount": 43780,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-07",
+    "amount": 70275,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-19",
+    "amount": 65017,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-22",
+    "amount": 46239,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 36814,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 20869,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-01",
+    "amount": 31046,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 76218,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 48462,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-10",
+    "amount": 50339,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-20",
+    "amount": 99797,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-19",
+    "amount": 67772,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-21",
+    "amount": 15019,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-02",
+    "amount": 41697,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-06",
+    "amount": 40582,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-15",
+    "amount": 83977,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-24",
+    "amount": 1820,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 83436,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 35089,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-19",
+    "amount": 42830,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-14",
+    "amount": 66657,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-18",
+    "amount": 96840,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 63603,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 40769,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 7979,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-08",
+    "amount": 12168,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-22",
+    "amount": 38554,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-08",
+    "amount": 31576,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 83124,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-24",
+    "amount": 30686,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-16",
+    "amount": 23066,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-10",
+    "amount": 89202,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-01",
+    "amount": 61763,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-24",
+    "amount": 50509,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-11",
+    "amount": 4126,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 53155,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-15",
+    "amount": 95433,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 67631,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-18",
+    "amount": 16456,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 64936,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-02",
+    "amount": 77073,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-21",
+    "amount": 71334,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-10",
+    "amount": 91050,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-06",
+    "amount": 99821,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-23",
+    "amount": 16554,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-10",
+    "amount": 9000,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-21",
+    "amount": 86458,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 84091,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-13",
+    "amount": 28547,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-16",
+    "amount": 29273,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-10",
+    "amount": 68614,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-01",
+    "amount": 2262,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 27175,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-02",
+    "amount": 64560,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-24",
+    "amount": 29831,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-10",
+    "amount": 4564,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-20",
+    "amount": 96632,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-06",
+    "amount": 29525,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-11",
+    "amount": 73872,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-03",
+    "amount": 67162,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-10",
+    "amount": 90163,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 25569,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-02",
+    "amount": 18814,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-06",
+    "amount": 90437,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-05",
+    "amount": 27522,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 98211,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-16",
+    "amount": 89612,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-16",
+    "amount": 69725,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 95744,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-21",
+    "amount": 77355,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-25",
+    "amount": 11782,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-08",
+    "amount": 45071,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-22",
+    "amount": 18678,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 88083,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-02",
+    "amount": 77913,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-16",
+    "amount": 99924,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-04",
+    "amount": 13922,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-11",
+    "amount": 30415,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 37028,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-14",
+    "amount": 82789,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-03",
+    "amount": 89252,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-17",
+    "amount": 68034,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-15",
+    "amount": 74719,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 11146,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-17",
+    "amount": 74603,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-18",
+    "amount": 59273,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-12",
+    "amount": 25648,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-11",
+    "amount": 68678,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-01",
+    "amount": 68770,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-02",
+    "amount": 95080,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-09",
+    "amount": 28999,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 26229,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-02",
+    "amount": 10620,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 1801,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 21133,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-18",
+    "amount": 99995,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-08",
+    "amount": 15225,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-16",
+    "amount": 39930,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 96768,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-24",
+    "amount": 60236,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-24",
+    "amount": 61598,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-20",
+    "amount": 69888,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 58645,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 9975,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-18",
+    "amount": 55111,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 57713,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-08",
+    "amount": 30063,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 9065,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-08",
+    "amount": 90890,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-23",
+    "amount": 30190,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-05",
+    "amount": 3994,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-06",
+    "amount": 4618,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-03",
+    "amount": 96956,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-17",
+    "amount": 54353,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-09",
+    "amount": 81792,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-23",
+    "amount": 71180,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-15",
+    "amount": 38512,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-24",
+    "amount": 85932,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-17",
+    "amount": 88516,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-08",
+    "amount": 8880,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 5116,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-06",
+    "amount": 88203,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 82889,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 70222,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 65700,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-15",
+    "amount": 86391,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-01",
+    "amount": 75279,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-20",
+    "amount": 1751,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-10",
+    "amount": 24904,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-20",
+    "amount": 65445,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-16",
+    "amount": 10569,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 10256,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-08",
+    "amount": 46118,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 39636,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-03",
+    "amount": 6476,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-19",
+    "amount": 94917,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-21",
+    "amount": 84418,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-06",
+    "amount": 77082,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 40978,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 15561,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-22",
+    "amount": 85204,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 35673,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-08",
+    "amount": 59619,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 23023,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-07",
+    "amount": 80438,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-01",
+    "amount": 83645,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-16",
+    "amount": 51836,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-02",
+    "amount": 31810,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-21",
+    "amount": 78190,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-25",
+    "amount": 43161,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-18",
+    "amount": 58260,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-17",
+    "amount": 27993,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-08",
+    "amount": 24039,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-16",
+    "amount": 88192,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-03",
+    "amount": 45033,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-08",
+    "amount": 18196,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-24",
+    "amount": 3281,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-20",
+    "amount": 66031,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 10860,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-06",
+    "amount": 95788,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-17",
+    "amount": 80275,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-14",
+    "amount": 31123,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-16",
+    "amount": 98093,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-10",
+    "amount": 55233,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 52074,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 30262,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-17",
+    "amount": 77515,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-19",
+    "amount": 61361,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 55067,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 80730,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-08",
+    "amount": 68331,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-21",
+    "amount": 44395,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-01",
+    "amount": 11792,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-04",
+    "amount": 6721,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-18",
+    "amount": 91250,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-07",
+    "amount": 63929,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-14",
+    "amount": 37653,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-08",
+    "amount": 80876,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 21787,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-08",
+    "amount": 41936,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-05",
+    "amount": 18613,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-20",
+    "amount": 78663,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 47216,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 85320,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 85360,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-21",
+    "amount": 45329,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-15",
+    "amount": 77850,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 28141,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-19",
+    "amount": 38573,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-19",
+    "amount": 66402,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-22",
+    "amount": 3885,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-08",
+    "amount": 9242,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-15",
+    "amount": 37943,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-21",
+    "amount": 67195,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 34696,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-23",
+    "amount": 51011,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-24",
+    "amount": 68666,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-22",
+    "amount": 42116,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-13",
+    "amount": 81580,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-16",
+    "amount": 73447,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-13",
+    "amount": 49738,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-05",
+    "amount": 55519,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-08",
+    "amount": 70635,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-03",
+    "amount": 18892,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-10",
+    "amount": 76632,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 76336,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-23",
+    "amount": 63407,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-22",
+    "amount": 15657,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-13",
+    "amount": 58247,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 8289,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-20",
+    "amount": 5537,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-22",
+    "amount": 50776,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-24",
+    "amount": 93098,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-10",
+    "amount": 11680,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-19",
+    "amount": 12421,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-23",
+    "amount": 44995,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-22",
+    "amount": 36152,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-13",
+    "amount": 92672,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-16",
+    "amount": 38932,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 22732,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-06",
+    "amount": 16965,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-19",
+    "amount": 63908,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-06",
+    "amount": 90277,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 3470,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 81796,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-24",
+    "amount": 38263,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-17",
+    "amount": 12365,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 75943,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 90585,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-04",
+    "amount": 69487,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-24",
+    "amount": 64788,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 84506,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-08",
+    "amount": 29725,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 45752,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-10",
+    "amount": 87863,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-08",
+    "amount": 6930,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-05",
+    "amount": 97735,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-06",
+    "amount": 26431,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 40786,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-25",
+    "amount": 44565,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-11",
+    "amount": 72521,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-18",
+    "amount": 20293,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-15",
+    "amount": 98140,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-14",
+    "amount": 19594,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-03",
+    "amount": 2037,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 47542,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-14",
+    "amount": 72302,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-11",
+    "amount": 55685,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-07",
+    "amount": 69807,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-20",
+    "amount": 20441,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-11",
+    "amount": 11598,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-08",
+    "amount": 86571,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-21",
+    "amount": 70058,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-13",
+    "amount": 71792,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-03",
+    "amount": 39835,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-23",
+    "amount": 9839,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 18636,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 16406,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-24",
+    "amount": 35091,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-03",
+    "amount": 50246,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-09",
+    "amount": 54346,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 67238,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-24",
+    "amount": 42198,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-03",
+    "amount": 53625,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 51865,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-13",
+    "amount": 33027,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-24",
+    "amount": 83225,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-02",
+    "amount": 16394,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-02",
+    "amount": 62333,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-13",
+    "amount": 93678,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 66234,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 94784,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 10117,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-13",
+    "amount": 99979,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-19",
+    "amount": 70100,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-16",
+    "amount": 53563,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-08",
+    "amount": 43739,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 4285,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-20",
+    "amount": 76849,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-12",
+    "amount": 79452,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-06",
+    "amount": 42414,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-06",
+    "amount": 63620,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-01",
+    "amount": 11935,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-04",
+    "amount": 63553,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-10",
+    "amount": 87937,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-05",
+    "amount": 16117,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 31081,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-17",
+    "amount": 77893,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-02",
+    "amount": 23054,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 80343,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-12",
+    "amount": 88345,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-16",
+    "amount": 77533,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-01",
+    "amount": 86891,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 16945,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-23",
+    "amount": 73796,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-20",
+    "amount": 67709,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-02",
+    "amount": 80939,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-21",
+    "amount": 84153,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-02",
+    "amount": 73309,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-10",
+    "amount": 64791,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-15",
+    "amount": 61401,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-03",
+    "amount": 44886,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 59333,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-01",
+    "amount": 21050,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-24",
+    "amount": 59430,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-04",
+    "amount": 13505,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-03",
+    "amount": 4507,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 63308,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-14",
+    "amount": 77965,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-17",
+    "amount": 87245,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 64204,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-09",
+    "amount": 72251,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-17",
+    "amount": 93115,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-08",
+    "amount": 62609,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-19",
+    "amount": 39739,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-11",
+    "amount": 38245,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-10",
+    "amount": 34463,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 31605,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 35577,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-10",
+    "amount": 83957,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-21",
+    "amount": 67208,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 50924,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-06",
+    "amount": 99882,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 30439,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-22",
+    "amount": 9080,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-18",
+    "amount": 19529,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-23",
+    "amount": 32649,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-03",
+    "amount": 12573,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 76105,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-14",
+    "amount": 33579,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-02",
+    "amount": 94681,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-14",
+    "amount": 57628,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 11633,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-20",
+    "amount": 49152,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-03",
+    "amount": 30176,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-07",
+    "amount": 55133,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-15",
+    "amount": 15314,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-08",
+    "amount": 46002,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 44201,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-19",
+    "amount": 5080,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-16",
+    "amount": 61039,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-16",
+    "amount": 53944,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-13",
+    "amount": 59872,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 23056,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-23",
+    "amount": 99242,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-05",
+    "amount": 41283,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 43795,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-22",
+    "amount": 71060,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 76896,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-14",
+    "amount": 78078,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-13",
+    "amount": 23010,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 24526,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-14",
+    "amount": 42782,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-13",
+    "amount": 36575,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-21",
+    "amount": 10021,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-10",
+    "amount": 96881,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 15601,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-06",
+    "amount": 8908,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 77422,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-16",
+    "amount": 99489,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 59791,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-02",
+    "amount": 50870,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-13",
+    "amount": 57865,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-08",
+    "amount": 28014,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-24",
+    "amount": 5051,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-23",
+    "amount": 18272,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-14",
+    "amount": 94933,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-09",
+    "amount": 93543,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-13",
+    "amount": 17096,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-24",
+    "amount": 35701,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-23",
+    "amount": 10731,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-06",
+    "amount": 23276,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-17",
+    "amount": 74235,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 13707,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-13",
+    "amount": 7510,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-23",
+    "amount": 50930,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-21",
+    "amount": 30466,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 97028,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-18",
+    "amount": 73196,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-09",
+    "amount": 61985,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-08",
+    "amount": 16340,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 42517,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-02",
+    "amount": 11484,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 44206,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-21",
+    "amount": 58687,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-08",
+    "amount": 11434,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-14",
+    "amount": 85025,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-23",
+    "amount": 7257,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-17",
+    "amount": 79135,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-11",
+    "amount": 72056,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 65475,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 26364,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-19",
+    "amount": 13341,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-02",
+    "amount": 32767,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-14",
+    "amount": 3199,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 7641,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 68978,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-14",
+    "amount": 42417,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-16",
+    "amount": 78010,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-20",
+    "amount": 75829,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 16091,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 62349,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 4658,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-19",
+    "amount": 80409,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-25",
+    "amount": 30733,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-14",
+    "amount": 62227,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 12397,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-03",
+    "amount": 99481,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-16",
+    "amount": 98627,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 48875,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-03",
+    "amount": 28749,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-18",
+    "amount": 27493,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-22",
+    "amount": 59894,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-10",
+    "amount": 61580,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-19",
+    "amount": 50696,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-20",
+    "amount": 6746,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 9327,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-24",
+    "amount": 64680,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-08",
+    "amount": 19292,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 91945,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 72566,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-09",
+    "amount": 99405,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 56580,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-01",
+    "amount": 43283,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-25",
+    "amount": 51551,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-05",
+    "amount": 19932,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 56751,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-24",
+    "amount": 82688,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-10",
+    "amount": 15567,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-20",
+    "amount": 28996,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-01",
+    "amount": 77775,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-25",
+    "amount": 69096,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-24",
+    "amount": 15848,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 76492,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-08",
+    "amount": 20089,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 37173,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-13",
+    "amount": 21465,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-02",
+    "amount": 68907,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-04",
+    "amount": 21777,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-13",
+    "amount": 14276,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-01",
+    "amount": 33054,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-09",
+    "amount": 52476,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-09",
+    "amount": 33859,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-19",
+    "amount": 5533,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-21",
+    "amount": 39292,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 70686,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-23",
+    "amount": 25628,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 4784,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-18",
+    "amount": 59377,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-21",
+    "amount": 9954,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-14",
+    "amount": 41597,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 39538,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-23",
+    "amount": 62151,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-05",
+    "amount": 78075,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-18",
+    "amount": 73583,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 41717,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 73873,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-23",
+    "amount": 44366,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-01",
+    "amount": 92546,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-19",
+    "amount": 71692,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-09",
+    "amount": 95158,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-16",
+    "amount": 67848,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 71650,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-14",
+    "amount": 20550,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-05",
+    "amount": 27336,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 5210,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 16801,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-01",
+    "amount": 73449,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-19",
+    "amount": 6865,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-05",
+    "amount": 29595,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-24",
+    "amount": 76035,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-15",
+    "amount": 1041,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-18",
+    "amount": 97047,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-17",
+    "amount": 11766,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-19",
+    "amount": 75742,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 67779,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 6778,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-03",
+    "amount": 94637,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-23",
+    "amount": 96745,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-24",
+    "amount": 94791,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-15",
+    "amount": 37871,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-03",
+    "amount": 9236,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 43028,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-22",
+    "amount": 27040,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 43774,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-11",
+    "amount": 28262,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 25066,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-14",
+    "amount": 56315,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-06",
+    "amount": 20464,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-01",
+    "amount": 70044,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-16",
+    "amount": 58318,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-09",
+    "amount": 94504,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-07",
+    "amount": 23122,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-21",
+    "amount": 63076,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-03",
+    "amount": 98770,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-22",
+    "amount": 80159,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-19",
+    "amount": 8854,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-05",
+    "amount": 79594,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-11",
+    "amount": 9763,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-23",
+    "amount": 68833,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 55012,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 93751,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-13",
+    "amount": 78818,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 78317,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-24",
+    "amount": 9836,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-13",
+    "amount": 47487,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-07",
+    "amount": 82146,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-02",
+    "amount": 67614,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-18",
+    "amount": 59080,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-23",
+    "amount": 25223,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 13062,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-06",
+    "amount": 95310,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-03",
+    "amount": 34654,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-10",
+    "amount": 52233,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-23",
+    "amount": 81501,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-16",
+    "amount": 6409,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-12",
+    "amount": 70701,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 4680,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-15",
+    "amount": 16538,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-10",
+    "amount": 21647,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-01",
+    "amount": 43300,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-16",
+    "amount": 38896,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-13",
+    "amount": 48243,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-11",
+    "amount": 53965,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-22",
+    "amount": 67688,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-19",
+    "amount": 61078,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 64632,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-21",
+    "amount": 75428,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-01",
+    "amount": 20394,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-11",
+    "amount": 37045,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-14",
+    "amount": 49828,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 22926,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 42359,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-05",
+    "amount": 88650,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-13",
+    "amount": 64141,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 59087,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 45178,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-01",
+    "amount": 59911,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 35480,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 50153,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-02",
+    "amount": 99634,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-07",
+    "amount": 77510,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-01",
+    "amount": 46337,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-03",
+    "amount": 71726,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-21",
+    "amount": 47751,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-09",
+    "amount": 28296,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-22",
+    "amount": 29043,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-05",
+    "amount": 15914,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-24",
+    "amount": 21548,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 77190,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-21",
+    "amount": 10253,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 39681,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-06",
+    "amount": 95818,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 61640,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-19",
+    "amount": 49382,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-15",
+    "amount": 76198,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-05",
+    "amount": 94052,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-06",
+    "amount": 18865,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-24",
+    "amount": 54429,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-07",
+    "amount": 20064,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-14",
+    "amount": 76152,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-16",
+    "amount": 55845,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 48000,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-07",
+    "amount": 40268,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 93158,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-21",
+    "amount": 31623,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-23",
+    "amount": 83294,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-02",
+    "amount": 21506,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 71652,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-14",
+    "amount": 71105,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 75521,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 28308,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-22",
+    "amount": 3248,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 25974,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-02",
+    "amount": 53979,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-23",
+    "amount": 25849,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 63730,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 14039,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 82955,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 26641,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 21780,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-06",
+    "amount": 53830,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-10",
+    "amount": 3516,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-08",
+    "amount": 30576,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-04",
+    "amount": 64124,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-09",
+    "amount": 8222,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-17",
+    "amount": 38322,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 38949,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-03",
+    "amount": 50423,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-14",
+    "amount": 58412,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 23391,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 75933,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-08",
+    "amount": 20010,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 51758,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-06",
+    "amount": 93692,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-19",
+    "amount": 72533,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 18613,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-03",
+    "amount": 61599,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-23",
+    "amount": 72791,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 80294,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-21",
+    "amount": 16065,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-06",
+    "amount": 73049,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-02",
+    "amount": 78439,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-20",
+    "amount": 5957,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-08",
+    "amount": 21938,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-03",
+    "amount": 39554,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-25",
+    "amount": 10442,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-19",
+    "amount": 78092,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-21",
+    "amount": 64490,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-15",
+    "amount": 76375,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-25",
+    "amount": 87059,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-13",
+    "amount": 27780,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-17",
+    "amount": 52343,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-05",
+    "amount": 27350,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-25",
+    "amount": 52469,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-23",
+    "amount": 70928,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-19",
+    "amount": 29614,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-18",
+    "amount": 71269,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-02",
+    "amount": 47547,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 65245,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 92417,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-24",
+    "amount": 33574,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-10",
+    "amount": 83879,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 65578,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-07",
+    "amount": 12584,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-13",
+    "amount": 65351,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-22",
+    "amount": 7723,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 96921,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-24",
+    "amount": 43651,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-14",
+    "amount": 91793,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-24",
+    "amount": 67683,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-01",
+    "amount": 24475,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-02",
+    "amount": 69794,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-13",
+    "amount": 68196,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 18627,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-21",
+    "amount": 18430,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-02",
+    "amount": 43392,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 42027,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-09",
+    "amount": 82410,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-13",
+    "amount": 7271,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-03",
+    "amount": 46986,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 75986,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 99488,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-09",
+    "amount": 29762,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-17",
+    "amount": 90876,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 88722,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-09",
+    "amount": 50018,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-20",
+    "amount": 75010,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-23",
+    "amount": 65705,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-13",
+    "amount": 77093,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-18",
+    "amount": 45970,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-08",
+    "amount": 50829,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 88531,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-10",
+    "amount": 5908,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-03",
+    "amount": 26971,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-08",
+    "amount": 68778,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-12",
+    "amount": 53561,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-03",
+    "amount": 96615,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-13",
+    "amount": 36107,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-25",
+    "amount": 75387,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-16",
+    "amount": 36720,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-04",
+    "amount": 44857,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-07",
+    "amount": 57122,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-25",
+    "amount": 9321,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 11352,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-16",
+    "amount": 21471,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-21",
+    "amount": 65441,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 21673,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-25",
+    "amount": 50373,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-18",
+    "amount": 2290,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-14",
+    "amount": 14608,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-20",
+    "amount": 88915,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-24",
+    "amount": 95873,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-15",
+    "amount": 71880,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-15",
+    "amount": 1851,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-13",
+    "amount": 6412,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 50839,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-07",
+    "amount": 96422,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-14",
+    "amount": 83229,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-25",
+    "amount": 49072,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-03",
+    "amount": 81654,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-24",
+    "amount": 91059,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-15",
+    "amount": 13089,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 36014,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-12",
+    "amount": 61940,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 37758,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-15",
+    "amount": 72391,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-19",
+    "amount": 48054,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-14",
+    "amount": 37792,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-08",
+    "amount": 61622,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 73699,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-20",
+    "amount": 36004,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-13",
+    "amount": 88984,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-15",
+    "amount": 28703,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-25",
+    "amount": 79954,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 17086,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-08",
+    "amount": 69918,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-15",
+    "amount": 44345,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 16531,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-21",
+    "amount": 17086,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 82326,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-22",
+    "amount": 68722,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-11",
+    "amount": 37827,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-24",
+    "amount": 37475,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 7395,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-25",
+    "amount": 51885,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-20",
+    "amount": 58977,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-05",
+    "amount": 19015,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-15",
+    "amount": 31208,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-22",
+    "amount": 50703,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-07",
+    "amount": 44875,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-18",
+    "amount": 42951,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-19",
+    "amount": 22999,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-03-07",
+    "amount": 11763,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-23",
+    "amount": 18096,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 34467,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-19",
+    "amount": 55638,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-15",
+    "amount": 86330,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 67811,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-06",
+    "amount": 89045,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 74419,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-02",
+    "amount": 55743,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-05",
+    "amount": 94063,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-05",
+    "amount": 72313,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 14405,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-11",
+    "amount": 5909,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-19",
+    "amount": 67075,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-05",
+    "amount": 84918,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 27766,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-01",
+    "amount": 14199,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-19",
+    "amount": 25910,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-25",
+    "amount": 38139,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-24",
+    "amount": 42526,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-10",
+    "amount": 19189,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-23",
+    "amount": 96814,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-02",
+    "amount": 17039,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-17",
+    "amount": 56201,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-17",
+    "amount": 46434,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-06",
+    "amount": 60386,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-15",
+    "amount": 26755,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-04",
+    "amount": 23102,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-09",
+    "amount": 44514,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-09",
+    "amount": 12826,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-14",
+    "amount": 56200,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-11",
+    "amount": 45730,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-13",
+    "amount": 41611,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-09",
+    "amount": 80949,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 73074,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-14",
+    "amount": 31765,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-20",
+    "amount": 50142,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-11",
+    "amount": 96564,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-17",
+    "amount": 98585,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-06",
+    "amount": 65346,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 90971,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-15",
+    "amount": 42032,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-19",
+    "amount": 85614,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-01",
+    "amount": 50968,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-05",
+    "amount": 98022,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-04",
+    "amount": 86226,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-24",
+    "amount": 72397,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 51779,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-10",
+    "amount": 61712,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-03",
+    "amount": 73414,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-24",
+    "amount": 54611,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-03",
+    "amount": 55275,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-01",
+    "amount": 82525,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 79597,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-02-25",
+    "amount": 41910,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-01-24",
+    "amount": 7890,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-11",
+    "amount": 66068,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-16",
+    "amount": 50460,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-22",
+    "amount": 76514,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-03",
+    "amount": 44054,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 60899,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-15",
+    "amount": 81521,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-19",
+    "amount": 39463,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-04",
+    "amount": 29522,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-01",
+    "amount": 94931,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-01",
+    "amount": 28725,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-03",
+    "amount": 88806,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-12",
+    "amount": 18835,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-03-11",
+    "amount": 98601,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-22",
+    "amount": 56115,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-12",
+    "amount": 97351,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-19",
+    "amount": 53834,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-03-18",
+    "amount": 37789,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-03-16",
+    "amount": 79338,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-06",
+    "amount": 42777,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-19",
+    "amount": 38632,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-01-07",
+    "amount": 33963,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-21",
+    "amount": 13174,
+    "agent": "David"
+  },
+  {
+    "date": "2018-01-13",
+    "amount": 5626,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-03-19",
+    "amount": 66822,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-15",
+    "amount": 61071,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-02",
+    "amount": 76117,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-23",
+    "amount": 93752,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-01-02",
+    "amount": 29528,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-09",
+    "amount": 69422,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-01-09",
+    "amount": 17350,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-24",
+    "amount": 34478,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-21",
+    "amount": 85726,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 59416,
+    "agent": "Gina"
+  },
+  {
+    "date": "2018-03-24",
+    "amount": 71228,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-08",
+    "amount": 84989,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-19",
+    "amount": 74334,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-14",
+    "amount": 51676,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-03-18",
+    "amount": 4293,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-18",
+    "amount": 93463,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-01-17",
+    "amount": 40409,
+    "agent": "David"
+  },
+  {
+    "date": "2018-03-23",
+    "amount": 70943,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-01-22",
+    "amount": 65284,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-24",
+    "amount": 76506,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-15",
+    "amount": 41616,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-17",
+    "amount": 51143,
+    "agent": "Caroline"
+  },
+  {
+    "date": "2018-02-10",
+    "amount": 61625,
+    "agent": "Fred"
+  },
+  {
+    "date": "2018-02-23",
+    "amount": 54417,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-24",
+    "amount": 87876,
+    "agent": "Bill"
+  },
+  {
+    "date": "2018-02-20",
+    "amount": 1095,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-14",
+    "amount": 59416,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-02-13",
+    "amount": 43778,
+    "agent": "Henry"
+  },
+  {
+    "date": "2018-02-03",
+    "amount": 39123,
+    "agent": "David"
+  },
+  {
+    "date": "2018-02-12",
+    "amount": 51668,
+    "agent": "Anna"
+  },
+  {
+    "date": "2018-02-18",
+    "amount": 58916,
+    "agent": "Ella"
+  },
+  {
+    "date": "2018-01-25",
+    "amount": 79218,
+    "agent": "Anna"
+  }
+]
